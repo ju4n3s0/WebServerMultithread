@@ -15,7 +15,7 @@ Technologies:
 
 How to Run?:
 1. Compile the Java files:
-javac ServidorWebMultithreading.java ManejadorCliente.java
+javac ServidorWebMultithreading.java 
 
 Run the server:
 java ServidorWebMultithreading
