@@ -14,10 +14,10 @@ Technologies:
 - Buffered I/O (BufferedReader, BufferedWriter)
 
 How to Run?:
-1. Compile the Java files:
+1. Compile the Java files:      
 javac ServidorWebMultithreading.java 
 
-Run the server:
+2. Run the server:      
 java ServidorWebMultithreading
 
 Open your browser and go to:
